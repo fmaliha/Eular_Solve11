@@ -1,0 +1,6 @@
+c:\users\anika\documents\visual studio 2013\Projects\11maxproductmatrix\11maxproductmatrix\bin\Debug\11maxproductmatrix.exe.config
+c:\users\anika\documents\visual studio 2013\Projects\11maxproductmatrix\11maxproductmatrix\bin\Debug\11maxproductmatrix.exe
+c:\users\anika\documents\visual studio 2013\Projects\11maxproductmatrix\11maxproductmatrix\bin\Debug\11maxproductmatrix.pdb
+c:\users\anika\documents\visual studio 2013\Projects\11maxproductmatrix\11maxproductmatrix\obj\Debug\11maxproductmatrix.csprojResolveAssemblyReference.cache
+c:\users\anika\documents\visual studio 2013\Projects\11maxproductmatrix\11maxproductmatrix\obj\Debug\11maxproductmatrix.exe
+c:\users\anika\documents\visual studio 2013\Projects\11maxproductmatrix\11maxproductmatrix\obj\Debug\11maxproductmatrix.pdb
